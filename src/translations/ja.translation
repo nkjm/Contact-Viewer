@@ -89,6 +89,10 @@
         <name>ContactsIFollow</name>
     </customLabels>
     <customLabels>
+        <label>(フォロー中)</label>
+        <name>IFollow</name>
+    </customLabels>
+    <customLabels>
         <label>カスタムホスト</label>
         <name>CustomHost</name>
     </customLabels>
@@ -235,6 +239,10 @@
     <customLabels>
         <label>私の取引先責任者</label>
         <name>MyContacts</name>
+    </customLabels>
+    <customLabels>
+        <label>私の</label>
+        <name>My</name>
     </customLabels>
     <customLabels>
         <label><!-- No Damages. --></label>
