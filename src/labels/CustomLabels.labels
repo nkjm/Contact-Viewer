@@ -155,6 +155,13 @@
         <value>Contacts I Follow</value>
     </labels>
     <labels>
+        <fullName>IFollow</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>I Follow</shortDescription>
+        <value>I Follow</value>
+    </labels>
+    <labels>
         <fullName>CustomHost</fullName>
         <language>en_US</language>
         <protected>true</protected>
@@ -412,6 +419,13 @@
         <protected>true</protected>
         <shortDescription>My Contacts</shortDescription>
         <value>My Contacts</value>
+    </labels>
+    <labels>
+        <fullName>My</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>My</shortDescription>
+        <value>My</value>
     </labels>
     <labels>
         <fullName>NoDamages</fullName>
