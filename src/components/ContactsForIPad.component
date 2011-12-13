@@ -21,8 +21,8 @@
                  </div>
 	             <div style="overflow:hidden">
 	              <div id="listselect" style="display:none;">
-	                     <button id="owner">{!$Label.MyContacts}</button>
-	                     <button id="follow">{!$Label.ContactsIFollow}</button>
+	                     <button id="owner">{!$Label.My}{!$Label.Contacts}</button>
+	                     <button id="follow">{!$Label.Contacts}{!$Label.IFollow}</button>
 	                     <button id="recent">{!$Label.RecentlyViewed}</button>
 	              </div>
 	          </div>
